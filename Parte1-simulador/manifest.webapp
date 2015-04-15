@@ -1,0 +1,20 @@
+{
+	"name": "Mi localización",
+	"description": "Localizador simple, que te da la ubicación en la que te encuentras",
+	"launch_path": "/index.html",
+	"icons": {
+	"128": "/map-icon.png"
+	},
+	"developer": {
+	"name": "Adrián Viñuelas Pereda",
+	"url": "http://gsyc.es/~jgb"
+	},
+	"default_locale": "en",
+	"permissions": {
+		"geolocation": {
+			"description": "Access to your position"
+		}
+	},
+	"chrome": { "navigation": true }
+}
+

@@ -1,0 +1,10 @@
+{
+	"name": "Mi localizacion2",
+	"package_path" : "http://gsyc.es/~adrianvi/ffxos-apps/map.zip",
+	"version": "1",
+	"developer": {
+		"name": "Adrián Viñuelas Pereda",
+		"url": "http://gsyc.es/~jgb"
+	}
+}
+
